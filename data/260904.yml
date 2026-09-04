@@ -7,7 +7,7 @@ about:
   head: b7df974
   archived: false
   latestVersion: latest
-  collectedAt: 2026-09-04T19:53:16Z
+  collectedAt: 2026-09-04T20:49:31Z
 timeline:
   created: 2023-01-22
   lastCommit: 2026-08-31
@@ -82,5 +82,48 @@ total:
   openIssue: 5
   commit: 1284
 ---
+path: /home/runner/.x-repo/github.com/azat/chdig
+collectedAt: 2026-09-04T20:49:32Z
+loc:
+  Rust:
+    code: 28829
+    comments: 1387
+    blanks: 3072
+    files: 85
+  Sh:
+    code: 590
+    comments: 59
+    blanks: 71
+    files: 2
+  Yaml:
+    code: 130
+    comments: 12
+    blanks: 8
+    files: 12
+  Makefile:
+    code: 93
+    comments: 23
+    blanks: 25
+    files: 1
+  Toml:
+    code: 88
+    comments: 14
+    blanks: 10
+    files: 3
+  Xml:
+    code: 20
+    comments: 0
+    blanks: 0
+    files: 4
+  Markdown:
+    code: 0
+    comments: 495
+    blanks: 190
+    files: 8
+total:
+  code: 29814
+  comments: 2834
+  blanks: 3420
+  files: 115
 ---
 
