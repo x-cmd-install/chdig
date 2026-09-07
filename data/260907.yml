@@ -2,14 +2,14 @@ about:
   description: "Dig into ClickHouse with TUI interface."
   license: MIT
   homepage: https://github.com/azat/chdig/blob/main/Documentation/Features.md
-  head: 7c16208
+  head: f1ecbd4
   archived: false
   latestVersion: "latest"
-  collectedAt: 2026-09-07T05:31:21Z
+  collectedAt: 2026-09-07T19:01:02Z
 timeline:
   created: 2023-01-22
-  lastCommit: 2026-09-06
-  lastRelease: 2026-09-06
+  lastCommit: 2026-09-07
+  lastRelease: 2026-09-07
 popularity:
   star: 294
   watcher: 2
@@ -19,10 +19,10 @@ popularity:
   pullRequest: 185
   issue: 114
 language:
-  Rust: 1327146
+  Rust: 1330212
   Makefile: 5318
   Vim Script: 276
-totalBytes: 1332740
+totalBytes: 1335806
 recent:
   last30d:
     since: 2026-08-08
@@ -31,7 +31,7 @@ recent:
     openPR: 0
     closedIssue: 3
     openIssue: 1
-    commit: 24
+    commit: 27
   last60d:
     since: 2026-07-09
     release: 3
@@ -39,7 +39,7 @@ recent:
     openPR: 0
     closedIssue: 6
     openIssue: 2
-    commit: 163
+    commit: 166
   last90d:
     since: 2026-06-09
     release: 4
@@ -47,7 +47,7 @@ recent:
     openPR: 0
     closedIssue: 6
     openIssue: 3
-    commit: 186
+    commit: 189
   last180d:
     since: 2026-03-11
     release: 9
@@ -55,7 +55,7 @@ recent:
     openPR: 0
     closedIssue: 11
     openIssue: 4
-    commit: 310
+    commit: 313
   last360d:
     since: 2025-09-12
     release: 17
@@ -63,7 +63,7 @@ recent:
     openPR: 0
     closedIssue: 51
     openIssue: 4
-    commit: 554
+    commit: 557
   last720d:
     since: 2024-09-17
     release: 23
@@ -71,22 +71,22 @@ recent:
     openPR: 0
     closedIssue: 77
     openIssue: 4
-    commit: 730
+    commit: 733
 total:
   release: 32
   mergedPR: 179
   openPR: 0
   closedIssue: 109
   openIssue: 5
-  commit: 1294
+  commit: 1297
 ---
 path: /home/runner/.x-repo/github.com/azat/chdig
-collectedAt: 2026-09-07T05:31:23Z
+collectedAt: 2026-09-07T19:01:04Z
 loc:
   Rust:
-    code: 31345
-    comments: 1444
-    blanks: 3203
+    code: 31378
+    comments: 1461
+    blanks: 3204
     files: 87
   Sh:
     code: 590
@@ -119,15 +119,15 @@ loc:
     blanks: 195
     files: 8
 total:
-  code: 32331
-  comments: 3065
-  blanks: 3560
+  code: 32364
+  comments: 3087
+  blanks: 3561
   files: 117
 ---
 
 ---
 eget:
-  collectedAt: 2026-09-07T05:31:25+00:00
+  collectedAt: 2026-09-07T19:01:05+00:00
   platform:
     darwin/arm64:
       name:  chdig-macos-arm64
