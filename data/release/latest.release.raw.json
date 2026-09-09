@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 6947443,
       "digest": "sha256:ffd531da379452383411dbc58c7fef9f621b9dc66f4906ae562badabc029887e",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-08-17T21:49:39Z",
       "updated_at": "2026-08-17T21:49:40Z",
       "browser_download_url": "https://github.com/azat/chdig/releases/download/v26.8.1/chdig-26.8.1-aarch64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 7304353,
       "digest": "sha256:9d0b7ae657d506b858e969ea6f835e1fec702373f72c0de4272825025a650e36",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-08-17T21:49:30Z",
       "updated_at": "2026-08-17T21:49:31Z",
       "browser_download_url": "https://github.com/azat/chdig/releases/download/v26.8.1/chdig-26.8.1-x86_64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 22242784,
       "digest": "sha256:b6c60965e904c69ff9831a8a78234af0edf540f416592e863049a5e98c539dfc",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-08-17T21:49:31Z",
       "updated_at": "2026-08-17T21:49:32Z",
       "browser_download_url": "https://github.com/azat/chdig/releases/download/v26.8.1/chdig-amd64"
@@ -427,7 +427,7 @@
       "state": "uploaded",
       "size": 6780764,
       "digest": "sha256:b6547fd247ab3ac3e3614070c0141068261d1760fa6712ef9b2dfa4396f3e9fd",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-08-17T21:49:33Z",
       "updated_at": "2026-08-17T21:49:33Z",
       "browser_download_url": "https://github.com/azat/chdig/releases/download/v26.8.1/chdig-latest-x86_64.pkg.tar.zst"
@@ -535,7 +535,7 @@
       "state": "uploaded",
       "size": 7733905,
       "digest": "sha256:54907020c69b435b73d93acb73de7249fb6383324fe9b74b63abe63fc092bbdf",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-08-17T21:49:34Z",
       "updated_at": "2026-08-17T21:49:35Z",
       "browser_download_url": "https://github.com/azat/chdig/releases/download/v26.8.1/chdig-latest.x86_64.rpm"
