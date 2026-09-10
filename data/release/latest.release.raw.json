@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 6780764,
       "digest": "sha256:b6547fd247ab3ac3e3614070c0141068261d1760fa6712ef9b2dfa4396f3e9fd",
-      "download_count": 22,
+      "download_count": 23,
       "created_at": "2026-08-17T21:49:29Z",
       "updated_at": "2026-08-17T21:49:29Z",
       "browser_download_url": "https://github.com/azat/chdig/releases/download/v26.8.1/chdig-26.8.1-1-x86_64.pkg.tar.zst"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 7304353,
       "digest": "sha256:9d0b7ae657d506b858e969ea6f835e1fec702373f72c0de4272825025a650e36",
-      "download_count": 5,
+      "download_count": 7,
       "created_at": "2026-08-17T21:49:30Z",
       "updated_at": "2026-08-17T21:49:31Z",
       "browser_download_url": "https://github.com/azat/chdig/releases/download/v26.8.1/chdig-26.8.1-x86_64.tar.gz"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 7200006,
       "digest": "sha256:08b8f20e271178860a380893268606012f1ec732301ace24336cf057e77f885a",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-08-17T21:49:44Z",
       "updated_at": "2026-08-17T21:49:45Z",
       "browser_download_url": "https://github.com/azat/chdig/releases/download/v26.8.1/chdig-latest_arm64.deb"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 16139776,
       "digest": "sha256:e2716de20bbd8699a03b2dcf50dfa9e5c6dcf7d5ea823920a5257fc059c952ad",
-      "download_count": 30,
+      "download_count": 32,
       "created_at": "2026-08-17T21:49:27Z",
       "updated_at": "2026-08-17T21:49:28Z",
       "browser_download_url": "https://github.com/azat/chdig/releases/download/v26.8.1/chdig-windows-x86_64.exe"
@@ -751,7 +751,7 @@
       "state": "uploaded",
       "size": 7463956,
       "digest": "sha256:540106d80635ec3bd216cd282fda42533bd5131b5b019bdbf1904af4846a72cb",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-08-17T21:49:36Z",
       "updated_at": "2026-08-17T21:49:37Z",
       "browser_download_url": "https://github.com/azat/chdig/releases/download/v26.8.1/chdig_26.8.1_amd64.deb"
