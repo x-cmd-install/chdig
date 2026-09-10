@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 7304353,
       "digest": "sha256:9d0b7ae657d506b858e969ea6f835e1fec702373f72c0de4272825025a650e36",
-      "download_count": 7,
+      "download_count": 9,
       "created_at": "2026-08-17T21:49:30Z",
       "updated_at": "2026-08-17T21:49:31Z",
       "browser_download_url": "https://github.com/azat/chdig/releases/download/v26.8.1/chdig-26.8.1-x86_64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 22242784,
       "digest": "sha256:b6c60965e904c69ff9831a8a78234af0edf540f416592e863049a5e98c539dfc",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-08-17T21:49:31Z",
       "updated_at": "2026-08-17T21:49:32Z",
       "browser_download_url": "https://github.com/azat/chdig/releases/download/v26.8.1/chdig-amd64"
@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 7463956,
       "digest": "sha256:540106d80635ec3bd216cd282fda42533bd5131b5b019bdbf1904af4846a72cb",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-08-17T21:49:35Z",
       "updated_at": "2026-08-17T21:49:36Z",
       "browser_download_url": "https://github.com/azat/chdig/releases/download/v26.8.1/chdig-latest_amd64.deb"
@@ -643,7 +643,7 @@
       "state": "uploaded",
       "size": 18657440,
       "digest": "sha256:e4dbb9b9b829665c1579264692b4ebb366d043eb140c557df9a6e15c636c00e2",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-08-17T21:49:26Z",
       "updated_at": "2026-08-17T21:49:27Z",
       "browser_download_url": "https://github.com/azat/chdig/releases/download/v26.8.1/chdig-macos-arm64"
