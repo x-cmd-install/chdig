@@ -48,12 +48,12 @@ Total: **32,364** lines of code across **106** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-14 | 2 | 3 | 0 | 1 | 0 | 29 |
-| last60d | 2026-07-15 | 3 | 19 | 0 | 5 | 1 | 154 |
-| 90d | 2026-06-15 | 4 | 27 | 0 | 6 | 3 | 186 |
-| last180d | 2026-03-17 | 9 | 55 | 0 | 11 | 4 | 319 |
-| 360d | 2025-09-18 | 17 | 92 | 0 | 51 | 4 | 563 |
-| last720d | 2024-09-23 | 23 | 142 | 0 | 77 | 4 | 739 |
+| 30d | 2026-08-15 | 2 | 3 | 0 | 1 | 0 | 29 |
+| last60d | 2026-07-16 | 3 | 19 | 0 | 5 | 1 | 154 |
+| 90d | 2026-06-16 | 4 | 27 | 0 | 6 | 3 | 186 |
+| last180d | 2026-03-18 | 9 | 55 | 0 | 11 | 4 | 319 |
+| 360d | 2025-09-19 | 17 | 92 | 0 | 51 | 4 | 563 |
+| last720d | 2024-09-24 | 23 | 142 | 0 | 77 | 4 | 739 |
 
 ## Release assets
 
@@ -81,14 +81,6 @@ Total: **32,364** lines of code across **106** files in the top 5 languages.
 | [chdig_26.8.1_amd64.deb](https://github.com/azat/chdig/releases/download/v26.8.1/chdig_26.8.1_amd64.deb) | 7.1 MiB | `runtime/deb/amd64` |
 | [chdig_26.8.1_arm64.deb](https://github.com/azat/chdig/releases/download/v26.8.1/chdig_26.8.1_arm64.deb) | 6.9 MiB | `runtime/deb/arm64` |
 
-## Distribution status
-
-Reported by **17** distros on [repology.org](https://repology.org/project/chdig). **9** are ✅ on the latest upstream release, **6** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Homebrew | `26.8.1` | ✅ latest |
-
 ## Improve this data
 
 Install metadata for chdig lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `chdig` is missing, out of date, or installs incorrectly, please open an issue or PR there:
@@ -98,4 +90,4 @@ Install metadata for chdig lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260913.yml` · 2026-09-13T05:37:05Z._
+_Snapshot: `data/card/260914.yml` · 2026-09-14T05:51:41Z._
