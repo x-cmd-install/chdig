@@ -4,7 +4,7 @@
 
 Dig into ClickHouse with TUI interface.
 
-[![x-cmd/install — chdig Code Quality Monitoring Repo Card](https://repo.x-cmd.io/chdig.svg)](https://x-cmd.com/install/chdig)
+[![x-cmd/install — chdig Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/chdig.svg)](https://x-cmd.com/install/chdig)
 
 ## Install
 
@@ -48,12 +48,12 @@ Total: **34,400** lines of code across **109** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 1 | 4 | 0 | 1 | 0 | 29 |
-| last60d | 2026-07-24 | 2 | 20 | 0 | 6 | 0 | 163 |
-| 90d | 2026-06-24 | 3 | 25 | 0 | 7 | 1 | 195 |
-| last180d | 2026-03-26 | 9 | 55 | 0 | 12 | 2 | 294 |
-| 360d | 2025-09-27 | 17 | 93 | 0 | 52 | 3 | 572 |
-| last720d | 2024-10-02 | 23 | 143 | 0 | 78 | 3 | 749 |
+| 30d | 2026-08-24 | 1 | 3 | 0 | 0 | 0 | 29 |
+| last60d | 2026-07-25 | 2 | 20 | 0 | 6 | 0 | 163 |
+| 90d | 2026-06-25 | 3 | 25 | 0 | 7 | 1 | 195 |
+| last180d | 2026-03-27 | 9 | 55 | 0 | 12 | 2 | 294 |
+| 360d | 2025-09-28 | 17 | 93 | 0 | 52 | 3 | 572 |
+| last720d | 2024-10-03 | 23 | 142 | 0 | 78 | 3 | 749 |
 
 ## Release assets
 
@@ -90,4 +90,4 @@ Install metadata for chdig lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T05:44:56Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T05:52:17Z._
