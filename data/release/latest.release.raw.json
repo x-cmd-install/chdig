@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 6780764,
       "digest": "sha256:b6547fd247ab3ac3e3614070c0141068261d1760fa6712ef9b2dfa4396f3e9fd",
-      "download_count": 31,
+      "download_count": 32,
       "created_at": "2026-08-17T21:49:29Z",
       "updated_at": "2026-08-17T21:49:29Z",
       "browser_download_url": "https://github.com/azat/chdig/releases/download/v26.8.1/chdig-26.8.1-1-x86_64.pkg.tar.zst"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 7304353,
       "digest": "sha256:9d0b7ae657d506b858e969ea6f835e1fec702373f72c0de4272825025a650e36",
-      "download_count": 24,
+      "download_count": 25,
       "created_at": "2026-08-17T21:49:30Z",
       "updated_at": "2026-08-17T21:49:31Z",
       "browser_download_url": "https://github.com/azat/chdig/releases/download/v26.8.1/chdig-26.8.1-x86_64.tar.gz"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 16139776,
       "digest": "sha256:e2716de20bbd8699a03b2dcf50dfa9e5c6dcf7d5ea823920a5257fc059c952ad",
-      "download_count": 44,
+      "download_count": 45,
       "created_at": "2026-08-17T21:49:27Z",
       "updated_at": "2026-08-17T21:49:28Z",
       "browser_download_url": "https://github.com/azat/chdig/releases/download/v26.8.1/chdig-windows-x86_64.exe"
