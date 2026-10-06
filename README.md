@@ -32,8 +32,8 @@ Total: **35,267** lines of code across **110** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `latest` (2026-08-17)
-- **Last commit**: 2026-09-30
+- **Latest**: `v26.10.1` (2026-10-05)
+- **Last commit**: 2026-10-05
 - **Assets in release**: 21
 
 ## Popularity
@@ -42,44 +42,44 @@ Total: **35,267** lines of code across **110** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 32 · **Merged PRs**: 181 · **Open PRs**: 0 · **Closed issues**: 110 · **Open issues**: 4 · **Commits**: 1325
+- **Releases**: 33 · **Merged PRs**: 182 · **Open PRs**: 0 · **Closed issues**: 110 · **Open issues**: 4 · **Commits**: 1327
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-05 | 1 | 4 | 0 | 0 | 0 | 21 |
-| last60d | 2026-08-06 | 2 | 19 | 0 | 5 | 0 | 78 |
-| 90d | 2026-07-07 | 3 | 26 | 0 | 7 | 1 | 200 |
-| last180d | 2026-04-08 | 8 | 49 | 0 | 10 | 2 | 306 |
-| 360d | 2025-10-10 | 17 | 94 | 0 | 52 | 3 | 584 |
-| last720d | 2024-10-15 | 23 | 142 | 0 | 78 | 3 | 760 |
+| 30d | 2026-09-06 | 2 | 3 | 0 | 0 | 0 | 23 |
+| last60d | 2026-08-07 | 3 | 18 | 0 | 4 | 0 | 80 |
+| 90d | 2026-07-08 | 4 | 27 | 0 | 7 | 1 | 202 |
+| last180d | 2026-04-09 | 9 | 50 | 0 | 10 | 2 | 308 |
+| 360d | 2025-10-11 | 18 | 95 | 0 | 52 | 3 | 586 |
+| last720d | 2024-10-16 | 24 | 143 | 0 | 78 | 3 | 761 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [chdig-26.8.1-1-aarch64.pkg.tar.zst](https://github.com/azat/chdig/releases/download/v26.8.1/chdig-26.8.1-1-aarch64.pkg.tar.zst) | 6.2 MiB | `other` |
-| [chdig-26.8.1-1-x86_64.pkg.tar.zst](https://github.com/azat/chdig/releases/download/v26.8.1/chdig-26.8.1-1-x86_64.pkg.tar.zst) | 6.5 MiB | `other` |
-| [chdig-26.8.1-1.aarch64.rpm](https://github.com/azat/chdig/releases/download/v26.8.1/chdig-26.8.1-1.aarch64.rpm) | 7.0 MiB | `runtime/rpm/aarch64` |
-| [chdig-26.8.1-1.x86_64.rpm](https://github.com/azat/chdig/releases/download/v26.8.1/chdig-26.8.1-1.x86_64.rpm) | 7.4 MiB | `runtime/rpm/x86_64` |
-| [chdig-26.8.1-aarch64.tar.gz](https://github.com/azat/chdig/releases/download/v26.8.1/chdig-26.8.1-aarch64.tar.gz) | 6.6 MiB | `native/linux/arm64` |
-| [chdig-26.8.1-x86_64.tar.gz](https://github.com/azat/chdig/releases/download/v26.8.1/chdig-26.8.1-x86_64.tar.gz) | 7.0 MiB | `native/linux/x64` |
-| [chdig-aarch64](https://github.com/azat/chdig/releases/download/v26.8.1/chdig-aarch64) | 19.5 MiB | `other` |
-| [chdig-amd64](https://github.com/azat/chdig/releases/download/v26.8.1/chdig-amd64) | 21.2 MiB | `other` |
-| [chdig-latest-aarch64.pkg.tar.zst](https://github.com/azat/chdig/releases/download/v26.8.1/chdig-latest-aarch64.pkg.tar.zst) | 6.2 MiB | `other` |
-| [chdig-latest-aarch64.tar.gz](https://github.com/azat/chdig/releases/download/v26.8.1/chdig-latest-aarch64.tar.gz) | 6.6 MiB | `native/linux/arm64` |
-| [chdig-latest-x86_64.pkg.tar.zst](https://github.com/azat/chdig/releases/download/v26.8.1/chdig-latest-x86_64.pkg.tar.zst) | 6.5 MiB | `other` |
-| [chdig-latest-x86_64.tar.gz](https://github.com/azat/chdig/releases/download/v26.8.1/chdig-latest-x86_64.tar.gz) | 7.0 MiB | `native/linux/x64` |
-| [chdig-latest.aarch64.rpm](https://github.com/azat/chdig/releases/download/v26.8.1/chdig-latest.aarch64.rpm) | 7.0 MiB | `runtime/rpm/aarch64` |
-| [chdig-latest.x86_64.rpm](https://github.com/azat/chdig/releases/download/v26.8.1/chdig-latest.x86_64.rpm) | 7.4 MiB | `runtime/rpm/x86_64` |
-| [chdig-latest_amd64.deb](https://github.com/azat/chdig/releases/download/v26.8.1/chdig-latest_amd64.deb) | 7.1 MiB | `runtime/deb/amd64` |
-| [chdig-latest_arm64.deb](https://github.com/azat/chdig/releases/download/v26.8.1/chdig-latest_arm64.deb) | 6.9 MiB | `runtime/deb/arm64` |
-| [chdig-macos-arm64](https://github.com/azat/chdig/releases/download/v26.8.1/chdig-macos-arm64) | 17.8 MiB | `native/darwin/arm64` |
-| [chdig-macos-x86_64](https://github.com/azat/chdig/releases/download/v26.8.1/chdig-macos-x86_64) | 18.2 MiB | `native/darwin/x64` |
-| [chdig-windows-x86_64.exe](https://github.com/azat/chdig/releases/download/v26.8.1/chdig-windows-x86_64.exe) | 15.4 MiB | `native/win/x64` |
-| [chdig_26.8.1_amd64.deb](https://github.com/azat/chdig/releases/download/v26.8.1/chdig_26.8.1_amd64.deb) | 7.1 MiB | `runtime/deb/amd64` |
-| [chdig_26.8.1_arm64.deb](https://github.com/azat/chdig/releases/download/v26.8.1/chdig_26.8.1_arm64.deb) | 6.9 MiB | `runtime/deb/arm64` |
+| [chdig-26.10.1-1-aarch64.pkg.tar.zst](https://github.com/azat/chdig/releases/download/v26.10.1/chdig-26.10.1-1-aarch64.pkg.tar.zst) | 6.4 MiB | `other` |
+| [chdig-26.10.1-1-x86_64.pkg.tar.zst](https://github.com/azat/chdig/releases/download/v26.10.1/chdig-26.10.1-1-x86_64.pkg.tar.zst) | 6.8 MiB | `other` |
+| [chdig-26.10.1-1.aarch64.rpm](https://github.com/azat/chdig/releases/download/v26.10.1/chdig-26.10.1-1.aarch64.rpm) | 7.4 MiB | `runtime/rpm/aarch64` |
+| [chdig-26.10.1-1.x86_64.rpm](https://github.com/azat/chdig/releases/download/v26.10.1/chdig-26.10.1-1.x86_64.rpm) | 7.7 MiB | `runtime/rpm/x86_64` |
+| [chdig-26.10.1-aarch64.tar.gz](https://github.com/azat/chdig/releases/download/v26.10.1/chdig-26.10.1-aarch64.tar.gz) | 6.9 MiB | `native/linux/arm64` |
+| [chdig-26.10.1-x86_64.tar.gz](https://github.com/azat/chdig/releases/download/v26.10.1/chdig-26.10.1-x86_64.tar.gz) | 7.3 MiB | `native/linux/x64` |
+| [chdig-aarch64](https://github.com/azat/chdig/releases/download/v26.10.1/chdig-aarch64) | 20.3 MiB | `other` |
+| [chdig-amd64](https://github.com/azat/chdig/releases/download/v26.10.1/chdig-amd64) | 22.1 MiB | `other` |
+| [chdig-latest-aarch64.pkg.tar.zst](https://github.com/azat/chdig/releases/download/v26.10.1/chdig-latest-aarch64.pkg.tar.zst) | 6.4 MiB | `other` |
+| [chdig-latest-aarch64.tar.gz](https://github.com/azat/chdig/releases/download/v26.10.1/chdig-latest-aarch64.tar.gz) | 6.9 MiB | `native/linux/arm64` |
+| [chdig-latest-x86_64.pkg.tar.zst](https://github.com/azat/chdig/releases/download/v26.10.1/chdig-latest-x86_64.pkg.tar.zst) | 6.8 MiB | `other` |
+| [chdig-latest-x86_64.tar.gz](https://github.com/azat/chdig/releases/download/v26.10.1/chdig-latest-x86_64.tar.gz) | 7.3 MiB | `native/linux/x64` |
+| [chdig-latest.aarch64.rpm](https://github.com/azat/chdig/releases/download/v26.10.1/chdig-latest.aarch64.rpm) | 7.4 MiB | `runtime/rpm/aarch64` |
+| [chdig-latest.x86_64.rpm](https://github.com/azat/chdig/releases/download/v26.10.1/chdig-latest.x86_64.rpm) | 7.7 MiB | `runtime/rpm/x86_64` |
+| [chdig-latest_amd64.deb](https://github.com/azat/chdig/releases/download/v26.10.1/chdig-latest_amd64.deb) | 7.5 MiB | `runtime/deb/amd64` |
+| [chdig-latest_arm64.deb](https://github.com/azat/chdig/releases/download/v26.10.1/chdig-latest_arm64.deb) | 7.2 MiB | `runtime/deb/arm64` |
+| [chdig-macos-arm64](https://github.com/azat/chdig/releases/download/v26.10.1/chdig-macos-arm64) | 18.6 MiB | `native/darwin/arm64` |
+| [chdig-macos-x86_64](https://github.com/azat/chdig/releases/download/v26.10.1/chdig-macos-x86_64) | 19.0 MiB | `native/darwin/x64` |
+| [chdig-windows-x86_64.exe](https://github.com/azat/chdig/releases/download/v26.10.1/chdig-windows-x86_64.exe) | 16.3 MiB | `native/win/x64` |
+| [chdig_26.10.1_amd64.deb](https://github.com/azat/chdig/releases/download/v26.10.1/chdig_26.10.1_amd64.deb) | 7.5 MiB | `runtime/deb/amd64` |
+| [chdig_26.10.1_arm64.deb](https://github.com/azat/chdig/releases/download/v26.10.1/chdig_26.10.1_arm64.deb) | 7.2 MiB | `runtime/deb/arm64` |
 
 ## Improve this data
 
@@ -90,4 +90,4 @@ Install metadata for chdig lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261005.yml` · 2026-10-05T06:18:47Z._
+_Snapshot: `data/card/261006.yml` · 2026-10-06T07:05:52Z._
