@@ -48,12 +48,12 @@ Total: **35,267** lines of code across **110** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 2 | 3 | 0 | 0 | 0 | 14 |
-| last60d | 2026-08-15 | 3 | 6 | 0 | 1 | 0 | 55 |
-| 90d | 2026-07-16 | 4 | 22 | 0 | 6 | 0 | 177 |
-| last180d | 2026-04-17 | 9 | 47 | 0 | 9 | 2 | 287 |
-| 360d | 2025-10-19 | 18 | 95 | 0 | 52 | 3 | 586 |
-| last720d | 2024-10-24 | 24 | 143 | 0 | 78 | 3 | 761 |
+| 30d | 2026-09-15 | 2 | 2 | 0 | 0 | 0 | 14 |
+| last60d | 2026-08-16 | 3 | 6 | 0 | 1 | 0 | 55 |
+| 90d | 2026-07-17 | 4 | 22 | 0 | 6 | 0 | 177 |
+| last180d | 2026-04-18 | 9 | 47 | 0 | 9 | 2 | 287 |
+| 360d | 2025-10-20 | 18 | 95 | 0 | 52 | 3 | 586 |
+| last720d | 2024-10-25 | 24 | 143 | 0 | 78 | 3 | 761 |
 
 ## Release assets
 
@@ -90,4 +90,4 @@ Install metadata for chdig lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261014.yml` · 2026-10-14T05:33:03Z._
+_Snapshot: `data/card/261015.yml` · 2026-10-15T05:21:29Z._
