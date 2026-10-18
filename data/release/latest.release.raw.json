@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 7269850,
       "digest": "sha256:1dd355d9f7cbadcd1b04336265fcef2bfa50ed9fdca0182122f23ef3143f65b4",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-10-05T22:08:32Z",
       "updated_at": "2026-10-05T22:08:32Z",
       "browser_download_url": "https://github.com/azat/chdig/releases/download/v26.10.1/chdig-26.10.1-aarch64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 7651135,
       "digest": "sha256:3e0ed50841d4b92b9abcdc50e3802da922379e7225aa10f76ad66826e3f4788c",
-      "download_count": 13,
+      "download_count": 14,
       "created_at": "2026-10-05T22:08:21Z",
       "updated_at": "2026-10-05T22:08:22Z",
       "browser_download_url": "https://github.com/azat/chdig/releases/download/v26.10.1/chdig-26.10.1-x86_64.tar.gz"
@@ -499,7 +499,7 @@
       "state": "uploaded",
       "size": 7720408,
       "digest": "sha256:5916de5598f56f8cd36d125bf14d10256150cb4370659172f6bb584518346c35",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-10-05T22:08:36Z",
       "updated_at": "2026-10-05T22:08:37Z",
       "browser_download_url": "https://github.com/azat/chdig/releases/download/v26.10.1/chdig-latest.aarch64.rpm"
@@ -607,7 +607,7 @@
       "state": "uploaded",
       "size": 7536982,
       "digest": "sha256:1ca89087bd3c1274edc7f097e42d3f4acde31a45d98c116c33cfdbccee624260",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-10-05T22:08:38Z",
       "updated_at": "2026-10-05T22:08:38Z",
       "browser_download_url": "https://github.com/azat/chdig/releases/download/v26.10.1/chdig-latest_arm64.deb"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 17080320,
       "digest": "sha256:15fd50cf062f3de350477732e469740948829130fd3f581f4a7dc368ddbe3ee3",
-      "download_count": 36,
+      "download_count": 37,
       "created_at": "2026-10-05T22:08:18Z",
       "updated_at": "2026-10-05T22:08:19Z",
       "browser_download_url": "https://github.com/azat/chdig/releases/download/v26.10.1/chdig-windows-x86_64.exe"
@@ -787,7 +787,7 @@
       "state": "uploaded",
       "size": 7536982,
       "digest": "sha256:1ca89087bd3c1274edc7f097e42d3f4acde31a45d98c116c33cfdbccee624260",
-      "download_count": 2,
+      "download_count": 3,
       "created_at": "2026-10-05T22:08:39Z",
       "updated_at": "2026-10-05T22:08:40Z",
       "browser_download_url": "https://github.com/azat/chdig/releases/download/v26.10.1/chdig_26.10.1_arm64.deb"
