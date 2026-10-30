@@ -14,15 +14,15 @@ x install chdig
 
 ## Code insight
 
-Total: **35,274** lines of code across **110** files in the top 5 languages.
+Total: **36,502** lines of code across **112** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Rust | 34,322 | 1,525 | 3,404 | 91 |
+| Rust | 35,553 | 1,596 | 3,536 | 93 |
 | Sh | 590 | 59 | 71 | 2 |
 | Yaml | 161 | 21 | 8 | 13 |
 | Makefile | 93 | 23 | 25 | 1 |
-| Toml | 88 | 14 | 10 | 3 |
+| Toml | 85 | 15 | 10 | 3 |
 
 ## Source
 
@@ -33,7 +33,7 @@ Total: **35,274** lines of code across **110** files in the top 5 languages.
 ## Release
 
 - **Latest**: `latest` (2026-10-05)
-- **Last commit**: 2026-10-19
+- **Last commit**: 2026-10-29
 - **Assets in release**: 21
 
 ## Popularity
@@ -42,18 +42,18 @@ Total: **35,274** lines of code across **110** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 33 · **Merged PRs**: 182 · **Open PRs**: 0 · **Closed issues**: 110 · **Open issues**: 4 · **Commits**: 1330
+- **Releases**: 33 · **Merged PRs**: 184 · **Open PRs**: 0 · **Closed issues**: 110 · **Open issues**: 4 · **Commits**: 1343
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-29 | 2 | 2 | 0 | 0 | 0 | 5 |
-| last60d | 2026-08-30 | 2 | 5 | 0 | 0 | 0 | 44 |
-| 90d | 2026-07-31 | 3 | 22 | 0 | 6 | 0 | 180 |
-| last180d | 2026-05-02 | 6 | 44 | 0 | 8 | 2 | 287 |
-| 360d | 2025-11-03 | 18 | 92 | 0 | 48 | 3 | 568 |
-| last720d | 2024-11-08 | 24 | 143 | 0 | 78 | 3 | 764 |
+| 30d | 2026-09-30 | 2 | 3 | 0 | 0 | 0 | 16 |
+| last60d | 2026-08-31 | 2 | 7 | 0 | 0 | 0 | 55 |
+| 90d | 2026-08-01 | 3 | 24 | 0 | 6 | 0 | 191 |
+| last180d | 2026-05-03 | 6 | 46 | 0 | 8 | 2 | 298 |
+| 360d | 2025-11-04 | 17 | 94 | 0 | 47 | 3 | 579 |
+| last720d | 2024-11-09 | 24 | 145 | 0 | 78 | 3 | 777 |
 
 ## Release assets
 
@@ -98,4 +98,4 @@ Install metadata for chdig lives in the [x-cmd/install](https://github.com/x-cmd
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261029.yml` · 2026-10-29T06:32:35Z._
+_Snapshot: `data/card/261030.yml` · 2026-10-30T06:31:55Z._
