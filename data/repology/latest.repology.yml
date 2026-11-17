@@ -2,8 +2,8 @@
   srcname: chdig-bin
   binname: chdig-bin
   visiblename: chdig-bin
-  version: 26.10.1
-  origversion: 26.10.1-1
+  version: 26.11.1
+  origversion: 26.11.1-1
   status: newest
   summary: Dig into ClickHouse with TUI interface (binaries for latest stable version)
   maintainers:
@@ -25,7 +25,7 @@
 - repo: homebrew
   srcname: chdig
   visiblename: chdig
-  version: 26.10.1
+  version: 26.11.1
   origversion: null
   status: newest
   summary: Dig into ClickHouse with TUI interface
@@ -40,7 +40,7 @@
   subrepo: extras
   binname: chdig
   visiblename: chdig
-  version: 26.10.1
+  version: 26.11.1
   origversion: null
   status: newest
   licenses:
@@ -123,7 +123,7 @@
   visiblename: chdig
   version: 26.10.1
   origversion: 26.10.1-1.fcrawhide
-  status: newest
+  status: outdated
   summary: Dig into ClickHouse with TUI interface
   licenses:
     - MIT
@@ -135,7 +135,7 @@
   visiblename: chdig
   version: 26.10.1
   origversion: 26.10.1-1.fcrawhide
-  status: newest
+  status: outdated
   summary: Dig into ClickHouse with TUI interface
   licenses:
     - MIT
@@ -147,7 +147,7 @@
   visiblename: chdig-debuginfo
   version: 26.10.1
   origversion: 26.10.1-1.fcrawhide
-  status: newest
+  status: outdated
   summary: Debug information for package chdig
   licenses:
     - MIT
@@ -159,7 +159,7 @@
   visiblename: chdig-debuginfo
   version: 26.10.1
   origversion: 26.10.1-1.fcrawhide
-  status: newest
+  status: outdated
   summary: Debug information for package chdig
   licenses:
     - MIT
@@ -171,7 +171,7 @@
   visiblename: chdig-debugsource
   version: 26.10.1
   origversion: 26.10.1-1.fcrawhide
-  status: newest
+  status: outdated
   summary: Debug sources for package chdig
   licenses:
     - MIT
@@ -183,7 +183,7 @@
   visiblename: chdig-debugsource
   version: 26.10.1
   origversion: 26.10.1-1.fcrawhide
-  status: newest
+  status: outdated
   summary: Debug sources for package chdig
   licenses:
     - MIT
