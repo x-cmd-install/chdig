@@ -123,19 +123,7 @@
   visiblename: chdig
   version: 26.10.1
   origversion: 26.10.1-1.fcrawhide
-  status: outdated
-  summary: Dig into ClickHouse with TUI interface
-  licenses:
-    - MIT
-  categories:
-    - Unspecified
-- repo: terra_rawhide
-  srcname: chdig
-  binname: chdig
-  visiblename: chdig
-  version: 26.10.1
-  origversion: 26.10.1-1.fcrawhide
-  status: outdated
+  status: legacy
   summary: Dig into ClickHouse with TUI interface
   licenses:
     - MIT
@@ -147,19 +135,7 @@
   visiblename: chdig-debuginfo
   version: 26.10.1
   origversion: 26.10.1-1.fcrawhide
-  status: outdated
-  summary: Debug information for package chdig
-  licenses:
-    - MIT
-  categories:
-    - Development/Debug
-- repo: terra_rawhide
-  srcname: chdig
-  binname: chdig-debuginfo
-  visiblename: chdig-debuginfo
-  version: 26.10.1
-  origversion: 26.10.1-1.fcrawhide
-  status: outdated
+  status: legacy
   summary: Debug information for package chdig
   licenses:
     - MIT
@@ -171,7 +147,7 @@
   visiblename: chdig-debugsource
   version: 26.10.1
   origversion: 26.10.1-1.fcrawhide
-  status: outdated
+  status: legacy
   summary: Debug sources for package chdig
   licenses:
     - MIT
@@ -179,11 +155,35 @@
     - Development/Debug
 - repo: terra_rawhide
   srcname: chdig
+  binname: chdig
+  visiblename: chdig
+  version: 26.11.1
+  origversion: 26.11.1-1.fcrawhide
+  status: newest
+  summary: Dig into ClickHouse with TUI interface
+  licenses:
+    - MIT
+  categories:
+    - Unspecified
+- repo: terra_rawhide
+  srcname: chdig
+  binname: chdig-debuginfo
+  visiblename: chdig-debuginfo
+  version: 26.11.1
+  origversion: 26.11.1-1.fcrawhide
+  status: newest
+  summary: Debug information for package chdig
+  licenses:
+    - MIT
+  categories:
+    - Development/Debug
+- repo: terra_rawhide
+  srcname: chdig
   binname: chdig-debugsource
   visiblename: chdig-debugsource
-  version: 26.10.1
-  origversion: 26.10.1-1.fcrawhide
-  status: outdated
+  version: 26.11.1
+  origversion: 26.11.1-1.fcrawhide
+  status: newest
   summary: Debug sources for package chdig
   licenses:
     - MIT
