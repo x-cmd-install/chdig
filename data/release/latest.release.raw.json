@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 6258827,
       "digest": "sha256:0c8a23d8af73465542b15662caf7e4ecaba69350b846e60c5904df7b3ca260a6",
-      "download_count": 8,
+      "download_count": 10,
       "created_at": "2026-11-16T08:05:51Z",
       "updated_at": "2026-11-16T08:05:51Z",
       "browser_download_url": "https://github.com/azat/chdig/releases/download/v26.11.1/chdig-26.11.1-1-x86_64.pkg.tar.zst"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 6739331,
       "digest": "sha256:621f98115c53dbfabb8d7a7079f737c2a039b75238725879fd1466e94eb1e65a",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-11-16T08:05:53Z",
       "updated_at": "2026-11-16T08:05:54Z",
       "browser_download_url": "https://github.com/azat/chdig/releases/download/v26.11.1/chdig-26.11.1-x86_64.tar.gz"
@@ -319,7 +319,7 @@
       "state": "uploaded",
       "size": 21382528,
       "digest": "sha256:d8458741e4510d4aa981bad8722e25b6da3475ac211257d66247d6fcf1919efa",
-      "download_count": 2,
+      "download_count": 4,
       "created_at": "2026-11-16T08:05:54Z",
       "updated_at": "2026-11-16T08:05:55Z",
       "browser_download_url": "https://github.com/azat/chdig/releases/download/v26.11.1/chdig-amd64"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 15944192,
       "digest": "sha256:0ee665558568d101ac58d87d00ef873d4157469f889f576ebcdc9bddba43038a",
-      "download_count": 21,
+      "download_count": 27,
       "created_at": "2026-11-16T08:05:49Z",
       "updated_at": "2026-11-16T08:05:50Z",
       "browser_download_url": "https://github.com/azat/chdig/releases/download/v26.11.1/chdig-windows-x86_64.exe"
